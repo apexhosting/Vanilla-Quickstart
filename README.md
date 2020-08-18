@@ -1,1 +1,1 @@
-# Vanilla-Quickstart
+# Vanilla Quickstart
