@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.5]
+
+### Changed
+- Update to 1.19.4
+
 ## [2.4]
 
 ### Changed
